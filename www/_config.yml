@@ -1,4 +1,7 @@
-title: Windows 2008 Migration Notebook
+full_rebuild: true
+title: "Windows 2008/R2 Migration Notebook"
+name: "Windows 2008/R2 Migration Notebook"
+tracking: win2kmigrate
 email: swilder@microsoft.com
 description: >- # this means to ignore newlines until "baseurl:"
   This notebook provides useful information for discussing Windows Server 2008/R2 
