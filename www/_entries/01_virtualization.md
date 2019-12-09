@@ -15,7 +15,7 @@ Architectural and Planning information is available from these resources...these
 	- Windows Server 2008/SQL Server 2008 Migration Playbooks - 
 	- Azure Architectural Design documentation 
 
->> Note:Use this notebook to find resources aimed at specific implementation issues which have already come up with various Azure customers.
+> Note: Use this notebook to find resources aimed at specific implementation issues which have already come up with various Azure customers.
 
 You can also read through "Reader's Digest" versions of product overviews and guidance. Take advantage of the many links within that you can use to reference source material, learn more, etc. 
 
