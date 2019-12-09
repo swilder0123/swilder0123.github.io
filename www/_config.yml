@@ -1,6 +1,7 @@
 full_rebuild: true
 title: "Windows 2008/R2 Migration Notebook"
 name: "Windows 2008/R2 Migration Notebook"
+author: "Microsoft Corporation"
 tracking: win2kmigrate
 email: swilder@microsoft.com
 description: >- # this means to ignore newlines until "baseurl:"
