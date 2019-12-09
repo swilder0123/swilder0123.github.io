@@ -9,7 +9,7 @@ Azure Migration uses Azure Site Recovery replication together with a variety of 
 
 [The Azure Migration Guide](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/migrate/azure-migration-guide/?tabs=Overview) is the principal resource in understanding how Azure Migration works. Specifically it provides a roadmap to important steps for any migration, including assessment, migration, optization and potential later workload transformation.
 
-SOME OTHER RESOURCES
+### Some Other Resources
 
 [Cloud Migration](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/migrate/azure-migration-guide/index?tabs=Overview) is a topic within the [Cloud Adoption Framework (CAF)](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/) that lays out a process for how customers can move existing on-prem assets to Azure. 
 
@@ -19,7 +19,7 @@ SOME OTHER RESOURCES
 
 Cloud Migration includes [ample documentation on preparing for migrations](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/migrate/azure-best-practices/contoso-migration-infrastructure). Expect many customer scenarios based on datacenter standards, deployment practices, etc.
 
-SPECIAL CHALLENGES FOR WINDOWS SERVER 2008 AND 2008 R2 MIGRATION
+### Special Challenges for Windows Server 2008 and 2008 R2 Migration
 
 - 32- vs. 64-bit OS migration - Windows Server 2008 was the final version of Windows Server to be available in a 32-bit distribution.
 - Features - Key OS features, like Storage Spaces, Clustering, network virtualization, etc. are either completely missing in Windows Server 2008 or have substantially reduced functionality.
