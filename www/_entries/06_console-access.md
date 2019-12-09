@@ -1,7 +1,7 @@
 ---
-sectionid: migration
+sectionid: rdp
 sectionclass: h1
-title: Windows Server 2008 to Azure Migration
+title: Remote Desktop and Console Access
 type: nocount
 is-parent: yes
 ---

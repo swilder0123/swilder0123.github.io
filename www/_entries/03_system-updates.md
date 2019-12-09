@@ -1,7 +1,7 @@
 ---
-sectionid: migration
+sectionid: updates
 sectionclass: h1
-title: Windows Server 2008 to Azure Migration
+title: System Updates
 type: nocount
 is-parent: yes
 ---

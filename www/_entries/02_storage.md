@@ -1,7 +1,7 @@
 ---
-sectionid: migration
+sectionid: storage
 sectionclass: h1
-title: Windows Server 2008 to Azure Migration
+title: Storage Information
 type: nocount
 is-parent: yes
 ---

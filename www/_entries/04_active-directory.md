@@ -1,7 +1,7 @@
 ---
-sectionid: migration
+sectionid: activedirectory
 sectionclass: h1
-title: Windows Server 2008 to Azure Migration
+title: Active Directory
 type: nocount
 is-parent: yes
 ---
